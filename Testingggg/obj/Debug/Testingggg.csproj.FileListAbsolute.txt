@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\bin\Debug\Testingggg.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\bin\Debug\Testingggg.exe
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\bin\Debug\Testingggg.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\obj\Debug\Testingggg.exe
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\obj\Debug\Testingggg.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\Testingggg\obj\Debug\Testingggg.csprojResolveAssemblyReference.cache

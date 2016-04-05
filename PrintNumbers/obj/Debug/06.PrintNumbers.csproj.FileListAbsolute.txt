@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Orlinovski Tapotii\IntroToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Orlinovski Tapotii\IntroToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

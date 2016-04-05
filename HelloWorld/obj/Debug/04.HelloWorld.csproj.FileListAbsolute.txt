@@ -1,0 +1,3 @@
+D:\Orlinovski Tapotii\IntroToProgramming\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Orlinovski Tapotii\IntroToProgramming\HelloWorld\obj\Debug\HelloWorld.pdb

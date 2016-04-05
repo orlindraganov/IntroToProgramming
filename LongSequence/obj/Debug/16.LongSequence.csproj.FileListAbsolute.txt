@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\IntroToProgramming\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\LongSequence\bin\Debug\LongSequence.exe
+D:\Orlinovski Tapotii\IntroToProgramming\LongSequence\bin\Debug\LongSequence.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\LongSequence\obj\Debug\LongSequence.exe
+D:\Orlinovski Tapotii\IntroToProgramming\LongSequence\obj\Debug\LongSequence.pdb

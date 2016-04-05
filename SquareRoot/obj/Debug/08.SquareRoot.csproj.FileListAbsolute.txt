@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Orlinovski Tapotii\IntroToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Orlinovski Tapotii\IntroToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.exe
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\obj\Debug\PrintSequence.pdb
+D:\Orlinovski Tapotii\IntroToProgramming\PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache
