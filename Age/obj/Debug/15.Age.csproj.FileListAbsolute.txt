@@ -1,5 +1,0 @@
-D:\Orlinovski Tapotii\IntroToProgramming\Age\bin\Debug\Age.exe.config
-D:\Orlinovski Tapotii\IntroToProgramming\Age\bin\Debug\Age.exe
-D:\Orlinovski Tapotii\IntroToProgramming\Age\bin\Debug\Age.pdb
-D:\Orlinovski Tapotii\IntroToProgramming\Age\obj\Debug\Age.exe
-D:\Orlinovski Tapotii\IntroToProgramming\Age\obj\Debug\Age.pdb
